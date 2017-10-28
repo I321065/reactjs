@@ -1,4 +1,4 @@
 .idea/
-APIClient/node_modules/
-APIServer/node_modules/
+client/node_modules/
+server/node_modules/
 

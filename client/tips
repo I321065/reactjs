@@ -1,0 +1,4 @@
+程序的总入口是index.html, 这是最初的页面
+index.js 是js的入口，会自动加载，index.js会改变index.html的显示
+如何创建一个新的组件，网上有三种方式，可以进行对比
+     React.createClass/extends Component
